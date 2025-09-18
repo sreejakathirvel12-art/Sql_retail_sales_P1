@@ -216,7 +216,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sreejakathirvel)
-- **Email**: [To Email me](sreejakathirvel12@gmail.com)
+- **Email**: [SreejaKathirvel](sreejakathirvel12@gmail.com)
 
 Thank you for your support, and I look forward to connecting with you!
+
 
